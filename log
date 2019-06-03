@@ -1,0 +1,4 @@
+CC	libavfilter/vf_myflip.o
+AR	libavfilter/libavfilter.a
+LD	ffmpeg_g
+STRIP	ffmpeg
